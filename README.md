@@ -5,6 +5,8 @@ The implementation code of “Breaking Synthetic Dependency: Towards Real-world 
 - [2025/10] All code will be open after acceptance.
 - ....
 
+## Video Presentation
+For more video results, check out the [[project page](https://boyang-pro.github.io/Video_example/)]. 
 ## Environment
 
 We test the code on PyTorch 2.1.1 + CUDA 11.8.
