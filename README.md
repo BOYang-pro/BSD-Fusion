@@ -1,5 +1,5 @@
 # BSD-Fusion
-The implementation code of “Breaking Synthetic Dependency: Towards Real-world Unsupervised Multi-modal Image Registration and Fusion”.
+The implementation code of “Breaking Synthetic Dependency: Towards Real-world Unaligned Infrared-Visible Image Fusion”.
 
 ## Update
 - [2025/10] All code will be open after acceptance.
